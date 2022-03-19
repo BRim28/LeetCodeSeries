@@ -1,2 +1,2 @@
-# LeetCodeSeries
-Solutions to LeetCode problems
+# LeetCode Series
+This repository contains solutions to various LeetCode problems
